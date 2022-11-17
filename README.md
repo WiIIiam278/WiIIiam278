@@ -8,7 +8,8 @@ Be sure to also check out [my website](https://william278.net/) for more of my s
 
 <hr/>
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=WiIIiam278&theme=tokyonight"/>
+  <a href="https://william278.net/">
+    <img height=190rem src="https://github-readme-stats.vercel.app/api?username=WiIIiam278&theme=react&show_icons=true&hide_border=true"/>
+    <img height=190rem src="https://github-readme-stats.vercel.app/api/top-langs?username=WiIIiam278&theme=react&show_icons=true&hide_border=true&layout=compact"/>
   </a>
 </p>
